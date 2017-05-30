@@ -18,7 +18,7 @@
                         <configuration>
                           <file>Validate_Films_Data.json</file>
                           <selectedEnvironment>Production</selectedEnvironment>
-                          <licenseKey>m4yKsZC16lCVQf6dXBuzIcrPa/56rwuPATgboUSGmIm7a1M7jbqlXmrnlwQnkng5MuJcBBBz/VYWEDMmZwsgnrMPWv4HH0b/1ye2nGBldXE=</licenseKey>
+                          <licenseKey>${license_key}</licenseKey>
                         </configuration>
                     </execution>
                 </executions>
